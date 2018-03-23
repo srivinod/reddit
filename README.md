@@ -1,4 +1,4 @@
-# REDDIT CLONE APP
+# REDDIT APP
 
 A Simple reddit clone app, it uses angular 5 with Bootstrap & fontawesome.
 
